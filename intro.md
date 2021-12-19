@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Patel</h1>
 <h3 align="center">A Web and Software Developer With Learnings in Many Different Languages, Frameworks & Libraries.</h3>
 
-- 🌱 I’m currently learning **Advanced Mathmatical Concepts for Problem Solving and Copetitive Programming.**
+- 🌱 I’m currently learning **Mathmatical Concepts for Problem Solving and Copetitive Programming.**
 
 - 💬 Ask me about **C | C++ | HTML5 | CSS3 | JavaScript | PHP | Laravel**
 
