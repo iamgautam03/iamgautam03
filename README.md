@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Patel</h1>
-<h3 align="center">A Web and Software Developer With Learnings in Many Different Languages, Frameworks & Libraries.</h3>
+<h3 align="center">A Software Engineer With Learnings in Many Different Languages, Frameworks & Libraries.</h3>
 
 - 🌱 I’m currently learning **Concepts for Problem Solving and Copetitive Programming.**
 
