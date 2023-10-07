@@ -1,4 +1,4 @@
-### <div align="center">Hey, There i am Gautam :) 👨‍💻 🚀</div>  
+### <div align="center">Hey There! i am Gautam :) 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working as Software Engineer  
