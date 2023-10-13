@@ -72,6 +72,6 @@
 ##
 <div align="center">
   <a href="https://iamgautam03.com" target="_blank">
-  <img src="https://img.shields.io/badge/See%20Me%20Live%20In%20Action-032425?&style=for-the-badge" style="margin-bottom: 5px;height:42px;" />
+  <img src="https://img.shields.io/badge/Wanna%20Know%20More:)-032425?&style=for-the-badge" style="margin-bottom: 5px;height:42px;" />
   </a>
 </div>
