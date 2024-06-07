@@ -4,9 +4,6 @@
 - 🔭 I’m currently working as Software Engineer  
   
 
-- 🌱 I’m currently learning Advance Concepts of Problem Solving for Competitive Programming  
-  
-
 - ❓ Ask me about C | C++ | Java | SOLID | Web Development  
   
 
