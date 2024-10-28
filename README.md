@@ -1,15 +1,10 @@
 ### <div align="center">Hey There! i am Gautam :) 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working as Software Engineer  
-  
-
-- ❓ Ask me about C | C++ | Java | SOLID | Web Development  
-  
+- 🔭 I’m currently working as Software Engineer    
 
 - ⚡ Fun fact: I prefer light themes over dark themes.  
   
-
 <br/>  
 
 
